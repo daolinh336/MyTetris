@@ -85,7 +85,7 @@ string makeClock(int k)
 
 void DrawTime()
 {
-    int remainTime =  5 -( SDL_GetTicks() - StopTimeTotal - WaitCount) / 1000;
+    int remainTime =   60 - ( SDL_GetTicks() - StopTimeTotal - WaitCount) / 1000;
     if(remainTime<=0)
     {
         renderLevel = num.getLevel();
