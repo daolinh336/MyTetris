@@ -1,0 +1,3 @@
+
+void ChooseMode();
+void loadchoosemode();
