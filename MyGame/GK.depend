@@ -279,3 +279,185 @@
 
 1716396380 d:\uet\advancedprograming\tetris\gk\choosemode.h
 
+1716396626 source:d:\uet\advancedprograming\tetris\mygame\choosemode.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<SDL_ttf.h>
+	"draw.h"
+	"ChooseMode.h"
+	"Sound.h"
+
+1716388309 d:\uet\advancedprograming\tetris\mygame\draw.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<bits/stdc++.h>
+
+1716396380 d:\uet\advancedprograming\tetris\mygame\choosemode.h
+
+1716339420 d:\uet\advancedprograming\tetris\mygame\sound.h
+	<SDL_mixer.h>
+
+1716397700 source:d:\uet\advancedprograming\tetris\mygame\draw.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"draw.h"
+
+1716397355 source:d:\uet\advancedprograming\tetris\mygame\gameover.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"gameover.h"
+	"texture.h"
+	"Sound.h"
+
+1716397440 d:\uet\advancedprograming\tetris\mygame\gameover.h
+	<iostream>
+	<string>
+
+1716397502 d:\uet\advancedprograming\tetris\mygame\texture.h
+	"draw.h"
+
+1716397502 source:d:\uet\advancedprograming\tetris\mygame\gamepause.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"gamepause.h"
+	"draw.h"
+	"Sound.h"
+
+1716394034 d:\uet\advancedprograming\tetris\mygame\gamepause.h
+
+1716397718 source:d:\uet\advancedprograming\tetris\mygame\gameplay.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<windows.h>
+	<SDL_ttf.h>
+	"gameplay.h"
+	"texture.h"
+
+1716397502 d:\uet\advancedprograming\tetris\mygame\gameplay.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<bits/stdc++.h>
+	"grid.h"
+	"draw.h"
+	<time.h>
+
+1716397748 d:\uet\advancedprograming\tetris\mygame\grid.h
+	"tetromino.h"
+	"Number.h"
+
+1716370813 d:\uet\advancedprograming\tetris\mygame\tetromino.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<bits/stdc++.h>
+
+1716370813 d:\uet\advancedprograming\tetris\mygame\number.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<SDL_ttf.h>
+	"texture.h"
+	"draw.h"
+	<bits/stdc++.h>
+
+1716397502 source:d:\uet\advancedprograming\tetris\mygame\grid.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<bits/stdc++.h>
+	"grid.h"
+	"Sound.h"
+
+1716394573 source:d:\uet\advancedprograming\tetris\mygame\highscore.cpp
+	<bits/stdc++.h>
+	"highscore.h"
+	"Number.h"
+
+1716343129 d:\uet\advancedprograming\tetris\mygame\highscore.h
+
+1716397502 source:d:\uet\advancedprograming\tetris\mygame\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"gameplay.h"
+	"texture.h"
+	"GamePause.h"
+	"Sound.h"
+	"highscore.h"
+	"gameover.h"
+	"Settings.h"
+	"Menu.h"
+	"ChooseMode.h"
+
+1716394587 d:\uet\advancedprograming\tetris\mygame\settings.h
+	<iostream>
+	<string>
+
+1716351059 d:\uet\advancedprograming\tetris\mygame\menu.h
+
+1716369933 source:d:\uet\advancedprograming\tetris\mygame\menu.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	"draw.h"
+	"Sound.h"
+
+1716370813 source:d:\uet\advancedprograming\tetris\mygame\number.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"Number.h"
+
+1716394578 source:d:\uet\advancedprograming\tetris\mygame\settings.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"draw.h"
+	"texture.h"
+	"Sound.h"
+	"highscore.h"
+
+1716370813 source:d:\uet\advancedprograming\tetris\mygame\sound.cpp
+	<SDL_mixer.h>
+	<iostream>
+	"Sound.h"
+
+1716370813 source:d:\uet\advancedprograming\tetris\mygame\tetromino.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"tetromino.h"
+
+1716431598 source:d:\uet\advancedprograming\tetris\mygame\texture.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<SDL_ttf.h>
+	"texture.h"
+
