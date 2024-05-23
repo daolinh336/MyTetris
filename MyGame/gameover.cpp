@@ -37,13 +37,18 @@ void LoadGameOver(int k)
     SDL_FreeSurface(imageSurface);
 
     LTexture ad(&Ve);
+    LTexture ad1(&Ve);
+    LTexture ad2(&Ve);
     ad.loadHScore(renderLevel);
     ad.render(500, 209);
-    ad.loadHScore(renderLine);
-    ad.render(500, 265);
-    ad.loadHScore(renderScore);
-    ad.render(500, 325);
+    ad1.loadHScore(renderLine);
+    ad1.render(500, 265);
+    ad2.loadHScore(renderScore);
+    ad2.render(500, 325);
     ad.free();
+    ad1.free();
+    ad2.free();
+    
 }
 
 void GameOver()
