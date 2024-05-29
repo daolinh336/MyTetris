@@ -369,7 +369,7 @@ void gameplay()
                 renderLine = num.getLine();
                 UpdateHighScore(num.Score);
                 Reset();
-                period = 6;
+                period = 61;
             }
             gGame.CreateNewPiece();
         }
